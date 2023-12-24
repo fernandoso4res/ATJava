@@ -1,0 +1,6 @@
+/home/fernando/Desktop/Springboot/atDeJava/src/main/java/br/com/fernando/atDeJava/model/Cliente.java
+/home/fernando/Desktop/Springboot/atDeJava/src/main/java/br/com/fernando/atDeJava/controller/ClienteController.java
+/home/fernando/Desktop/Springboot/atDeJava/src/main/java/br/com/fernando/atDeJava/model/Cep.java
+/home/fernando/Desktop/Springboot/atDeJava/src/main/java/br/com/fernando/atDeJava/AtDeJavaApplication.java
+/home/fernando/Desktop/Springboot/atDeJava/src/main/java/br/com/fernando/atDeJava/service/ClienteService.java
+/home/fernando/Desktop/Springboot/atDeJava/src/main/java/br/com/fernando/atDeJava/ExternalAPI/CepUtil.java

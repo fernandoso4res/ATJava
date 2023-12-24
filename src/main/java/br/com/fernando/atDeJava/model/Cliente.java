@@ -5,9 +5,14 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data@AllArgsConstructor@NoArgsConstructor@Builder
-public class Pessoa {
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+
+public class Cliente {
     private int id;
     private String nome;
-    private Cep cep;
+    private Cep endereco;
+
 }

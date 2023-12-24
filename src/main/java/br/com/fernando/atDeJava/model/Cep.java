@@ -5,11 +5,25 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data@AllArgsConstructor@NoArgsConstructor@Builder
-
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
 public class Cep {
-    private String cep;
-    private String state;
-    private String city;
-    private String service;
+
+
+        private String cep;
+        private String logradouro;
+        private String complemento;
+        private String bairro;
+        private String localidade;
+        private String uf;
+        private String ibge;
+        private String gia;
+        private String ddd;
+        private String siafi;
+
+
+
 }
+
